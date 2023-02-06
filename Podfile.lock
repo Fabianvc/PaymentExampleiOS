@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.7.3)
+  - IGListKit (3.4.0):
+    - IGListKit/Default (= 3.4.0)
+  - IGListKit/Default (3.4.0):
+    - IGListKit/Diffing
+  - IGListKit/Diffing (3.4.0)
+  - ObjectMapper (3.3.0)
+  - Realm (4.4.1):
+    - Realm/Headers (= 4.4.1)
+  - Realm/Headers (4.4.1)
+  - RealmSwift (4.4.1):
+    - Realm (= 4.4.1)
+  - SDWebImage (4.2.3):
+    - SDWebImage/Core (= 4.2.3)
+  - SDWebImage/Core (4.2.3)
+  - SnapKit (4.0.0)
+  - SwiftyBeaver (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IGListKit
+  - ObjectMapper
+  - RealmSwift (~> 4.4.1)
+  - SDWebImage (~> 4.2.2)
+  - SnapKit
+  - SwiftyBeaver
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IGListKit
+    - ObjectMapper
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SnapKit
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  IGListKit: 7a5d788e9fb746bcd402baa8e8b24bc3bd2a5a07
+  ObjectMapper: b612bf8c8e99c4dc0bb6013a51f7c27966ed5da9
+  Realm: 4eb04d7487bd43c0581256f40b424eafb711deff
+  RealmSwift: 3eb8924ff7100df5928c7602f71d0fec51e7c9c5
+  SDWebImage: 791bb72962b3492327ddcac4b1880bd1b5458431
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyBeaver: e45759613e50b522b0e6f53b1f0f14389b45ca34
+
+PODFILE CHECKSUM: a9146814838eece2aa25794ad665d2aa870ebb94
+
+COCOAPODS: 1.11.3
